@@ -1,6 +1,6 @@
 # 启动
 
-docker-compose -f .\docker-compose-traefik-minio.yml -f .\docker-compose-postgres.yml up
+docker-compose -f docker-compose-traefik-minio.yml -f docker-compose-postgres.yml up
 
 ## 注意
 
